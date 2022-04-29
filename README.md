@@ -1,5 +1,3 @@
-# RyseHologram
-
 # Dependency - Soon
 _Make sure you shade the API._
 
