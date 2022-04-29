@@ -1,0 +1,6 @@
+name: Hologram
+version: '${project.version}'
+main: io.github.rysefoxx.HologramPlugin
+api-version: 8
+authors: [ Rysefoxx ]
+description: Hologram System for 1.8
