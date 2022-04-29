@@ -1,5 +1,39 @@
 # RyseHologram
-Hologram System for 1.8
+
+# Dependency - Soon
+_Make sure you shade the API._
+
+### Gradle (Groovy) 
+```
+repositories {
+    mavenLocal()
+}
+dependencies {
+    implementation ''
+}
+```
+### Gradle (Kotlin) 
+```
+repositories {
+    mavenLocal()
+}
+dependencies {
+    implementation("")
+}
+```
+
+### Maven
+```xml
+<dependency>
+  <groupId>io.github.rysefoxx</groupId>
+  <artifactId></artifactId>
+  <version></version>
+</dependency>
+```
+
+# Found an issue?
+ - Create a new issue with a detailed description. Use label **bug**
+ - You have an idea for a feature? Use label **enhancement**
 
 
 # License
