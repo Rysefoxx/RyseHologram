@@ -7,7 +7,7 @@ repositories {
     mavenLocal()
 }
 dependencies {
-    implementation ''
+    implementation 'io.github.rysefoxx:Hologram:1.0-SNAPSHOT'
 }
 ```
 ### Gradle (Kotlin) 
@@ -16,7 +16,7 @@ repositories {
     mavenLocal()
 }
 dependencies {
-    implementation("")
+    implementation("io.github.rysefoxx:Hologram:1.0-SNAPSHOT")
 }
 ```
 
@@ -24,8 +24,8 @@ dependencies {
 ```xml
 <dependency>
   <groupId>io.github.rysefoxx</groupId>
-  <artifactId></artifactId>
-  <version></version>
+  <artifactId>Hologram</artifactId>
+  <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
 
