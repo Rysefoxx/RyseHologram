@@ -1,22 +1,22 @@
-# Dependency - Soon
+# Dependency
 _Make sure you shade the API._
 
 ### Gradle (Groovy) 
 ```
 repositories {
-    mavenLocal()
+    mavenCentral()
 }
 dependencies {
-    implementation 'io.github.rysefoxx:Hologram:1.0-SNAPSHOT'
+    implementation 'io.github.rysefoxx:Hologram:1.0'
 }
 ```
 ### Gradle (Kotlin) 
 ```
 repositories {
-    mavenLocal()
+    mavenCentral()
 }
 dependencies {
-    implementation("io.github.rysefoxx:Hologram:1.0-SNAPSHOT")
+    implementation("io.github.rysefoxx:Hologram:1.0")
 }
 ```
 
@@ -25,7 +25,7 @@ dependencies {
 <dependency>
   <groupId>io.github.rysefoxx</groupId>
   <artifactId>Hologram</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 </dependency>
 ```
 
